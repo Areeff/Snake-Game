@@ -3,5 +3,5 @@
 User can control the direction of the moving snake.
 The snake length increases as it eats the food.
 The score increases as the snake eats food.
-If snake hits itself then the game gets over.
+If snake hits itself or it hits the obstacles then the game gets over.
 We can restart the game.
